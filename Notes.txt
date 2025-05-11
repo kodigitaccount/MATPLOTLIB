@@ -1,9 +1,12 @@
+
+# youtube live link : https://www.youtube.com/watch?v=ChJEb5Usxug
+
 ==================================
 👉Topic: Visualizing Data with Matplotlib  
 🗓️Date & Time: 11th May @ 09:30 AM (IST)
 👨‍🏫Trainer: by Mr. Prakash senapathi.
 🔗Link: https://t.ly/Matp-11M
-youtube live link : https://www.youtube.com/watch?v=ChJEb5Usxug
+
 ==================================
 1- My introduction -->
 	https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
@@ -31,16 +34,7 @@ PRACTICLE -->
 3- 1st business insight -- line plot sale vs profit 
 
 
-
-
-
-
-
-
-my new batch starging from 
-
-
-
+COMNNECT ME IN LINKED IN PLATFORM
 
 =================== 
 Day-1 https://youtu.be/_bwdgK-n1vs
