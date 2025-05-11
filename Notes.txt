@@ -1,0 +1,51 @@
+==================================
+👉Topic: Visualizing Data with Matplotlib  
+🗓️Date & Time: 11th May @ 09:30 AM (IST)
+👨‍🏫Trainer: by Mr. Prakash senapathi.
+🔗Link: https://t.ly/Matp-11M
+youtube live link : https://www.youtube.com/watch?v=ChJEb5Usxug
+==================================
+1- My introduction -->
+	https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+
+2- we see the graphs stock merket | ipl matchs | doctor explain the disease in the form of graphs
+	graphs are called as visualization  | data representation in the form of graphics is called visualziation 
+
+3- Audience -- Business Analytics | Data Analytics | Datascintist watch session 
+	nontechnical | technical | everyone who want get software 
+
+4- my name is k. prakash senapati 
+
+5- Business use case -- FIND TRENDS PATTERN FOR SMALL BUSINESS
+		we depends on paid BI tool simple python library we can find insight of the business
+		
+
+6- google - python - matplotlibe documention 
+	matplotlib -- linear + math + grphic  -- super powerfull everybody can use 
+		fresher, exper
+----
+PRACTICLE -->
+----
+1- GOOGLE - GOOGLE COLAB -- NEW NOTEBOOK
+2- We create dataset | data to visualizew
+3- 1st business insight -- line plot sale vs profit 
+
+
+
+
+
+
+
+
+my new batch starging from 
+
+
+
+
+=================== 
+Day-1 https://youtu.be/_bwdgK-n1vs
+Day-2 https://youtu.be/m5NPwsOlOoY
+Day-3 https://youtu.be/lm7DcCbc7pw
+Day-4 https://youtu.be/imGuR9ER01k
+Day-5 https://youtu.be/agozRb2sAvQ
+===================
